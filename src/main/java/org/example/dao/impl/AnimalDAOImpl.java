@@ -4,6 +4,9 @@ import org.example.dao.AnimalDAO;
 import org.example.models.Animal;
 import org.sql2o.Connection;
 import org.sql2o.Sql2o;
+import org.sql2o.Sql2oException;
+
+import java.util.List;
 
 public class AnimalDAOImpl implements AnimalDAO {
     private final Sql2o sql2o;
