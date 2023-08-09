@@ -1,5 +1,14 @@
 package org.example.dao.impl;
 
+import org.example.dao.EndangeredAnimalDAO;
+import org.example.models.EndangeredAnimal;
+
+import org.sql2o.Connection;
+import org.sql2o.Sql2o;
+import org.sql2o.Sql2oException;
+
+import java.util.List;
+
 public class EndangeredAnimalDAOImpl implements EndangeredAnimalDAO {
     private final Sql2o sql2o;
 
