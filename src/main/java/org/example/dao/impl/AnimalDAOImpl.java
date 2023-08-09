@@ -2,6 +2,8 @@ package org.example.dao.impl;
 
 import org.example.dao.AnimalDAO;
 import org.example.models.Animal;
+import org.sql2o.Connection;
+import org.sql2o.Sql2o;
 
 public class AnimalDAOImpl implements AnimalDAO {
     private final Sql2o sql2o;
