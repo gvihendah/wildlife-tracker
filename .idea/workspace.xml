@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8118a86-04e0-43fb-bbe4-662bd1603eb9" name="Changes" comment="files added to the project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/impl/AnimalDAOImpl.java" afterDir="false" />
+    <list default="true" id="c8118a86-04e0-43fb-bbe4-662bd1603eb9" name="Changes" comment="changes made to the project">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/impl/EndangeredAnimalDAOImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,13 +114,42 @@
       <option name="project" value="LOCAL" />
       <updated>1691622003979</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="files added to the project">
+      <created>1691622250984</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691622250984</updated>
+    </task>
+    <task id="LOCAL-00011" summary="files added to the project">
+      <created>1691622342740</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691622342740</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changes made to the project">
+      <created>1691622433529</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691622433529</updated>
+    </task>
+    <task id="LOCAL-00013" summary="changes made to the project">
+      <created>1691622477431</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691622477431</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project" />
     <MESSAGE value="added README.md file" />
     <MESSAGE value="files added to the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="files added to the project" />
+    <MESSAGE value="changes made to the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes made to the project" />
   </component>
 </project>
