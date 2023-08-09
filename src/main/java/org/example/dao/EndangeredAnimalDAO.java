@@ -1,4 +1,7 @@
 package org.example.dao;
+import org.example.models.EndangeredAnimal;
+
+import java.util.List;
 
 public class EndangeredAnimalDAO {
     void create(EndangeredAnimal animal);
