@@ -1,5 +1,24 @@
 package org.example;
 
+import org.example.dao.impl.AnimalDAOImpl;
+import org.example.dao.impl.EndangeredAnimalDAOImpl;
+import org.example.dao.impl.SightingDAOImpl;
+import org.example.models.Animal;
+import org.example.models.EndangeredAnimal;
+import org.example.models.Sighting;
+import org.sql2o.Sql2o;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import static org.example.Constants.ANIMAL;
+import static org.example.Constants.ENDANGERED;
+import static spark.Spark.*;
+
+import spark.ModelAndView;
+import spark.template.handlebars.HandlebarsTemplateEngine;
+
 public class Main {
     private static final String port = System.getenv("PORT");
     private static final String databaseUrl = System.getenv("JDBC_DATABASE_URL");
