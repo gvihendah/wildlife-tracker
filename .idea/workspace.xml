@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8118a86-04e0-43fb-bbe4-662bd1603eb9" name="Changes" comment="changes made to the project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/impl/SightingDAOImpl.java" afterDir="false" />
+    <list default="true" id="c8118a86-04e0-43fb-bbe4-662bd1603eb9" name="Changes" comment="Added SQL file">
+      <change afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +156,28 @@
       <option name="project" value="LOCAL" />
       <updated>1691622710430</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="changes made to the project">
+      <created>1691622900877</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1691622900877</updated>
+    </task>
+    <task id="LOCAL-00017" summary="changes made to the project">
+      <created>1691622983229</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1691622983229</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added SQL file">
+      <created>1691623134388</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1691623134388</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +185,7 @@
     <MESSAGE value="added README.md file" />
     <MESSAGE value="files added to the project" />
     <MESSAGE value="changes made to the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes made to the project" />
+    <MESSAGE value="Added SQL file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SQL file" />
   </component>
 </project>
